@@ -1,0 +1,56 @@
+Test zo slovenského jazyka a literatúry
+Celoslovenské testovanie žiakov 9. ročníka základných škôl a 4. ročníka gymnázií s osemročným vzdelávacím programom
+
+Kód testu: 2699
+
+Svoje odpovede zapisujte priamo do testu. Do odpoveďového hárka zapisujte odpovede až vtedy, keď ste presvedčení, že ich už nebudete meniť.
+Píšte čitateľne, rozlišujte malé a veľké písmená abecedy. Odpovedajte vždy presne na zadanie úlohy.
+Ak je v zadaní úlohy inštrukcia "vypíš", tak odpoveď musí byť pravopisne aj gramaticky správne zapísaná.
+
+Ukážka 1
+
+Ako správne a zodpovedne triediť odpad?
+
+ZELENÁ NÁDOBA
+- nevratné sklenené fľaše,
+- sklenené poháre, vázy,
+- úlomky tabuľového skla,
+- poháre od kompótov,
+- sklenené obaly od kozmetiky, kávy a pochutín bez plastového vrchnáka.
+Vedeli ste, že 15 sklenených fliaš sa zmení na akvárium?
+SKLO 4000 ROKOV
+
+ŽLTÁ NÁDOBA
+- PET fľaše,
+- plastové tašky, vrecká,
+- plastové obaly od kozmetiky,
+- plastové obaly od aviváže a pracích prostriedkov,
+~ plastové obaly od kečupu, jogurtov...,
+- fólie.
+Vedeli ste, že 30 plastových fliaš sa pridaním textilu zmení na flaušovú bundu?
+PET FĽAŠE 100 - 1000 ROKOV
+
+
+MODRÁ NÁDOBA
+- noviny, časopisy, letáky, katalógy,
+- papierové tašky,
+- papierové a kartónové obaly,
+- kancelársky papier, obálky, listy, pohľadnice.
+Vedeli ste, že 30 časopisov a novín sa zmení na škatuľu od televízora?
+NOVINY 3 - 12 MESIACOV
+
+ČERVENÁ NÁDOBA
+- plechovky od nápojov,
+- konzervy bez zvyškov jedla,
+- kovové uzávery, uzávery z jogurtov a kompótov,
+- alobaly, kovové súdky.
+Vedeli ste, že 150 plechoviek sa zmení na panvicu?
+PLECHOVKA 20 - 100 ROKOV
+
+TODO...
+
+01. Ktorý odpad môžeme na základe ukážky vyhodiť do modrého kontajnera?
+A Papierovú vreckovku, do ktorej sme si vyfúkali nos.
+B Starý školský zošit, do ktorého sme písali celý rok.
+C Veľkú nezloženú kartónovú škatulu od televízora.
+D Reklamné letáky nafarbené pri malování bytu.
