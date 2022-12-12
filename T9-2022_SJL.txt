@@ -7,9 +7,12 @@ Svoje odpovede zapisujte priamo do testu. Do odpoveďového hárka zapisujte odp
 Píšte čitateľne, rozlišujte malé a veľké písmená abecedy. Odpovedajte vždy presne na zadanie úlohy.
 Ak je v zadaní úlohy inštrukcia "vypíš", tak odpoveď musí byť pravopisne aj gramaticky správne zapísaná.
 
+================================================================================
 Ukážka 1
 
 Ako správne a zodpovedne triediť odpad?
+
+--------------------------------------------------------------------------------
 
 ZELENÁ NÁDOBA
 - nevratné sklenené fľaše,
@@ -47,10 +50,56 @@ NOVINY 3 - 12 MESIACOV
 Vedeli ste, že 150 plechoviek sa zmení na panvicu?
 PLECHOVKA 20 - 100 ROKOV
 
-TODO...
+-------------------------------------------------------------------------------
+
+Kam patria použité hygienické vreckovky?
+Hygienické potreby (detské plienky, papierové vreckovky, tuba zo zubnej pasty a pod.) patria do zmesového odpadu, pretože sú znečistené.
+
+Kam patria obaly z nebezpečných látok a prípravkov?
+Obaly obsahujúce zvyšky nebezpečných látok (motorových olejov, farieb, chemikálií, riedidiel a pod.) nepatria do triedeného odpadu. Odneste ich do zberného dvora.
+
+Kam patrí polystyrén a škatule z kartónu?
+Ak nie je polystyrénu veľa, tak patrí do žltého kontajnera, určeného na plasty. Ak je rozmerný, odneste ho do zberného dvora. Škatule z kartónu patria do modrých nádob na papier iba po zmenšení objemu, napríklad poskladaním.
+
+Kam patria tégliky z jogurtov?
+Patria do žltého kontajnera, určeného na plasty, musia však byť bez zvyškov jedla.
+
+================================================================================
+
+Na ukážku 1 sa vzťahujú úlohy 01 — 07
 
 01. Ktorý odpad môžeme na základe ukážky vyhodiť do modrého kontajnera?
-A Papierovú vreckovku, do ktorej sme si vyfúkali nos.
-B Starý školský zošit, do ktorého sme písali celý rok.
-C Veľkú nezloženú kartónovú škatulu od televízora.
-D Reklamné letáky nafarbené pri malování bytu.
+A) Papierovú vreckovku, do ktorej sme si vyfúkali nos.
+B) Starý školský zošit, do ktorého sme písali celý rok.
+C) Veľkú nezloženú kartónovú škatuľu od televízora.
+D) Reklamné letáky ofŕkané farbou pri maľovaní bytu.
+
+02. Ktoré tvrdenie na základe ukážky nie je pravdivé?
+A) Triedený odpad sa dá opätovne využiť a recyklovať.
+B) V prírode by sa sklenená váza rozkladala aj 4000 rokov.
+C) Všetky obaly od kozmetických prípravkov patria do plastov.
+D) Existuje aj odpad, ktorého časti patria do rôznych kontajnerov.
+
+03. Do kontajnera určeného na plasty na základe ukážky vyhadzujeme
+A) kúsky polystyrénu.
+B) flaušovú bundu.
+C) tuby zo zubnej pasty.
+D) nedojedený jogurt.
+
+04. V ktorej možnosti je správne použité vykanie?
+A) Pani Vierka, bola by ste taká láskavá a pomohla mi zložiť škatuľu?
+B) S dovolením, potrebujem vyniesť kôš, mohol by ste mi uhnúť z cesty?
+C) Boli by ste takí dobrí, pán Maximilián, odložíte mi vrchnáky z fliaš?
+D) Povedali by ste mi, kde sa nachádzajú najbližšie zberné kontajnery?
+
+05. V ktorej možnosti patria obe podčiarknuté slová k neohybným slovným druhom? (TODO ako odkomunikujes podciarknutie?)
+A) Projekt prispieva k _tomu_, _aby_ sme sa zaujímali o životné prostredie.
+B) _Len_ veľmi málo škôl _systematicky_ separuje odpad.
+C) Je _dôležité_ starať sa nielen o svoje pohodlie, ale _aj_ o našu planétu.
+D) _Jeho_ súčasťou je projekt Zbieraj a trieď.
+
+
+06. Vypíš z orámovanej časti ukážky pomnožné podstatné meno. (TODO ako odkomunikujes oramovanie)
+
+07. Vypíš z nasledujúcej časti ukážky slovo cudzieho pôvodu, pri výslovnosti ktorého sa nerešpektuje pravidlo o mäkčení.
+ZELENÝ ODPADKOVÝ KÔŠ: nevratné sklenené fľaše, sklenené poháre, vázy, úlomky tabuľového skla, poháre od kompótov, sklenené obaly od kozmetiky, kávy a pochutín bez plastového vrchnáka.
