@@ -7,7 +7,7 @@ Svoje odpovede zapisujte priamo do testu. Do odpoveďového hárka zapisujte odp
 Píšte čitateľne, rozlišujte malé a veľké písmená abecedy. Odpovedajte vždy presne na zadanie úlohy.
 Ak je v zadaní úlohy inštrukcia "vypíš", tak odpoveď musí byť pravopisne aj gramaticky správne zapísaná.
 
-================================================================================
+
 Ukážka 1
 
 Ako správne a zodpovedne triediť odpad?
@@ -64,7 +64,6 @@ Ak nie je polystyrénu veľa, tak patrí do žltého kontajnera, určeného na p
 Kam patria tégliky z jogurtov?
 Patria do žltého kontajnera, určeného na plasty, musia však byť bez zvyškov jedla.
 
-================================================================================
 
 Na ukážku 1 sa vzťahujú úlohy 01 — 07
 
@@ -98,8 +97,26 @@ B) _Len_ veľmi málo škôl _systematicky_ separuje odpad.
 C) Je _dôležité_ starať sa nielen o svoje pohodlie, ale _aj_ o našu planétu.
 D) _Jeho_ súčasťou je projekt Zbieraj a trieď.
 
-
 06. Vypíš z orámovanej časti ukážky pomnožné podstatné meno. (TODO ako odkomunikujes oramovanie)
 
 07. Vypíš z nasledujúcej časti ukážky slovo cudzieho pôvodu, pri výslovnosti ktorého sa nerešpektuje pravidlo o mäkčení.
 ZELENÝ ODPADKOVÝ KÔŠ: nevratné sklenené fľaše, sklenené poháre, vázy, úlomky tabuľového skla, poháre od kompótov, sklenené obaly od kozmetiky, kávy a pochutín bez plastového vrchnáka.
+
+
+Ukážka 2
+
+Wilbur Smith
+ČARODEJNÍK
+(historicko-dobrodružný príbeh)
+
+„Ako si sa dostal k tejto mape?“ naliehal Naja.
+„Pred dvanástimi rokmi som si na príkaz kráľa Sargona obhliadol mesto a vlastnoručne ju namaľoval,“ odvetil Ištar. „Nikto by nedosiahol toľkú presnosť a krásu.“
+„Ak si Sargon objednal mapu, prečo si mu ju nedal?“
+„Dal,“ Ištar kývol na dôraz. „Dal som mu nedokonalý náčrtok, pričom sám som si tajne ponechal dobrý kus, ktorý vidíte pred sebou. Vedel som, že jedného dňa mi zaň niekto zaplatí viac, než sa kedy zmohol Sargon.“
+Ďalšiu hodinu skúmali mapu, mlčky, pohrúžene. Ako bojujúci generáli s profesionálnym odhadom bojiska boli schopní obdivovať hĺbku a silu hradieb, veží a pevností.
+Trok nakoniec odstúpil od stola. „Nevidím žiadnu slabinu, čarodejník. Od začiatku si mal pravdu. Prelomiť tie múry zaberie tri roky ťažkej práce. Budeš musieť niečo vymyslieť, aby si si zarobil tri vrecia zlata.“
+„Voda,“ zašeptal Ištar. „Pozrite na vodu.“
+„Pozeral som na vodu,“ usmial sa naňho Naja tenkými perami. „Každú štvrť zásobujú kanály, je tam dosť vody na sto rokov pre Sargonových šesť terás.“
+„Faraón je vševidiaci, vševediaci,“ Ištar sa mu uklonil. „Lenže odkiaľ pochádza všetka tá voda?“
+„Z dvoch mohutných riek, ktoré v tomto tisícročí nevyschli,“ doplnil Naja.
+„Ale kde vteká voda do mesta? Ako ním prechádza, pod všetkými tými múrmi?“ Ištar naliehal a Naja s Trokom si vymenili pohľady, v ktorých sa zračilo rodiace sa pochopenie.
