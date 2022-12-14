@@ -12,7 +12,7 @@ Ukážka 1
 
 Ako správne a zodpovedne triediť odpad?
 
---------------------------------------------------------------------------------
+(začiatok orámovania)
 
 ZELENÁ NÁDOBA
 - nevratné sklenené fľaše,
@@ -28,7 +28,7 @@ SKLO 4000 ROKOV
 - plastové tašky, vrecká,
 - plastové obaly od kozmetiky,
 - plastové obaly od aviváže a pracích prostriedkov,
-~ plastové obaly od kečupu, jogurtov...,
+- plastové obaly od kečupu, jogurtov...,
 - fólie.
 Vedeli ste, že 30 plastových fliaš sa pridaním textilu zmení na flaušovú bundu?
 PET FĽAŠE 100 - 1000 ROKOV
@@ -50,7 +50,7 @@ NOVINY 3 - 12 MESIACOV
 Vedeli ste, že 150 plechoviek sa zmení na panvicu?
 PLECHOVKA 20 - 100 ROKOV
 
--------------------------------------------------------------------------------
+(koniec orámovania)
 
 Kam patria použité hygienické vreckovky?
 Hygienické potreby (detské plienky, papierové vreckovky, tuba zo zubnej pasty a pod.) patria do zmesového odpadu, pretože sú znečistené.
@@ -65,7 +65,7 @@ Kam patria tégliky z jogurtov?
 Patria do žltého kontajnera, určeného na plasty, musia však byť bez zvyškov jedla.
 
 
-Na ukážku 1 sa vzťahujú úlohy 01 — 07
+Na ukážku 1 sa vzťahujú úlohy 01 - 07
 
 01. Ktorý odpad môžeme na základe ukážky vyhodiť do modrého kontajnera?
 A) Papierovú vreckovku, do ktorej sme si vyfúkali nos.
@@ -120,3 +120,13 @@ Trok nakoniec odstúpil od stola. „Nevidím žiadnu slabinu, čarodejník. Od 
 „Faraón je vševidiaci, vševediaci,“ Ištar sa mu uklonil. „Lenže odkiaľ pochádza všetka tá voda?“
 „Z dvoch mohutných riek, ktoré v tomto tisícročí nevyschli,“ doplnil Naja.
 „Ale kde vteká voda do mesta? Ako ním prechádza, pod všetkými tými múrmi?“ Ištar naliehal a Naja s Trokom si vymenili pohľady, v ktorých sa zračilo rodiace sa pochopenie.
+
+
+Na ukážku 2 sa vzťahujú úlohy 08 - 14
+
+08. Ktoré tvrdenie o postavách vyplýva z ukážky?
+A) Ištar a Naja skúmali mapu mesta viac ako hodinu sami.
+B) Autor mapy nie je poctivcom, ale pozerá na svoje výhody.
+C) Ištar namaľoval mapu pôvodne pre faraóna na objednávku.
+D) Nápad, akým spôsobom dobyť mesto, skrsol v hlave Naju.
+
