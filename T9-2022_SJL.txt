@@ -33,7 +33,6 @@ SKLO 4000 ROKOV
 Vedeli ste, že 30 plastových fliaš sa pridaním textilu zmení na flaušovú bundu?
 PET FĽAŠE 100 - 1000 ROKOV
 
-
 MODRÁ NÁDOBA
 - noviny, časopisy, letáky, katalógy,
 - papierové tašky,
@@ -91,13 +90,13 @@ B) S dovolením, potrebujem vyniesť kôš, mohol by ste mi uhnúť z cesty?
 C) Boli by ste takí dobrí, pán Maximilián, odložíte mi vrchnáky z fliaš?
 D) Povedali by ste mi, kde sa nachádzajú najbližšie zberné kontajnery?
 
-05. V ktorej možnosti patria obe podčiarknuté slová k neohybným slovným druhom? (TODO ako odkomunikujes podciarknutie?)
+05. V ktorej možnosti patria obe podčiarknuté slová k neohybným slovným druhom?
 A) Projekt prispieva k _tomu_, _aby_ sme sa zaujímali o životné prostredie.
 B) _Len_ veľmi málo škôl _systematicky_ separuje odpad.
 C) Je _dôležité_ starať sa nielen o svoje pohodlie, ale _aj_ o našu planétu.
 D) _Jeho_ súčasťou je projekt Zbieraj a trieď.
 
-06. Vypíš z orámovanej časti ukážky pomnožné podstatné meno. (TODO ako odkomunikujes oramovanie)
+06. Vypíš z orámovanej časti ukážky pomnožné podstatné meno.
 
 07. Vypíš z nasledujúcej časti ukážky slovo cudzieho pôvodu, pri výslovnosti ktorého sa nerešpektuje pravidlo o mäkčení.
 ZELENÝ ODPADKOVÝ KÔŠ: nevratné sklenené fľaše, sklenené poháre, vázy, úlomky tabuľového skla, poháre od kompótov, sklenené obaly od kozmetiky, kávy a pochutín bez plastového vrchnáka.
