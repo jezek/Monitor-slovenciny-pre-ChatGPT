@@ -1,11 +1,24 @@
+T9 2021
+TESTOVǍ FORMA A
+
 Test zo slovenského jazyka a literatúry
 Celoslovenské testovanie žiakov 9. ročníka základných škôl a 4. ročníka gymnázií s osemročným vzdelávacím programom
 
-Kód testu: 2699
+KÓD TESTU 2699
 
+Milé žiačky, milí žiaci,
+
+máte pred sebou test zo slovenského jazyka a literatúry.
+Test obsahuje 3 ukážky a 30 testových úloh:
+	- 20 úloh s výberom jednej správnej odpovede zo štyroch možností A, B, C, D,
+	- 10 úloh s tvorbou krátkej odpovede.
 Svoje odpovede zapisujte priamo do testu. Do odpoveďového hárka zapisujte odpovede až vtedy, keď ste presvedčení, že ich už nebudete meniť.
 Píšte čitateľne, rozlišujte malé a veľké písmená abecedy. Odpovedajte vždy presne na zadanie úlohy.
 Ak je v zadaní úlohy inštrukcia "vypíš", tak odpoveď musí byť pravopisne aj gramaticky správne zapísaná.
+Hodnotené budú len odpovede správne zapísané v odpoveďovom hárku. Každá správna odpoveď bude hodnotená 1 bodom.
+Pracujte sústredene a každú úlohu si pozorne prečítajte.
+Na vypracovanie testu máte 70 minút.
+Prajeme vám veľa úspechov.
 
 
 Ukážka 1
@@ -196,7 +209,6 @@ A) nechá ľahko na hocičo nalákať, nemá skúsenosti, slepo dôveruje.
 B) snaží pomáhať a svojím správaním motivovať okolie k pomáhaniu.
 C) prejavuje ako inšpirujúci človek, ktorý dáva podnety na rôzne činnosti.
 D) rozhodne, ohľaduplne a primerane postaví za svoje postoje a názory.
-
 
 17. V ktorej možnosti je uvedený hlavný dôvod, prečo sa mladí ľudia zapájajú do dobrovoľníctva menej?
 A) strach
