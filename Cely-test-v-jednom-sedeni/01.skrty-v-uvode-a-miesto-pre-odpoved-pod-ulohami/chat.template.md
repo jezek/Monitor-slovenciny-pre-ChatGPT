@@ -1,15 +1,19 @@
-# Test zo slovenského jazyka a literatúry
-# Celoslovenské testovanie žiakov 9. ročníka základných škôl a 4. ročníka gymnázií s osemročným vzdelávacím programom
-
-- Z [prepisu](../T9-2022_SJL.txt)
+# Monitor zo slovenského jazyka a literatúry pre ChatGPT [🔗](../../README.md)
+## Cely test v jednom sedeni
+### Skrty v uvode a miesto pre odpoved podulohami [🔗](./README.md)
+#### Test zo slovenského jazyka a literatúry. Celoslovenské testovanie žiakov 9. ročníka základných škôl a 4. ročníka gymnázií s osemročným vzdelávacím programom
+##### Popis uprav testu
+- Z [prepisu](../../T9-2022_SJL.txt)
   - odstraneny nadpis a kod testu
   - odstranenie vety o teste a odpovednom harku z uvodnych instrukcii k testu
   - doplnene miesta pre odpovede pod ulohami
-- Url: chat.openai.com
-- Date: //TODO
-- Version: //TODO
 
-## In: 1
+##### Udaje o rozhovore
+- Url: chat.openai.com
+- Datum: //TODO
+- Verzia: //TODO
+
+##### In: 1
 ```
 Svoje odpovede zapisujte priamo do testu.
 Píšte čitateľne, rozlišujte malé a veľké písmená abecedy. Odpovedajte vždy presne na zadanie úlohy.
@@ -82,11 +86,11 @@ D) Reklamné letáky ofŕkané farbou pri maľovaní bytu.
 
 Odpoveď na úlohu 01: 
 ```
-### Out: 1
+###### Out: 1
 ```
 //TODO
 ```
-## In: 2
+##### In: 2
 ```
 02. Ktoré tvrdenie na základe ukážky nie je pravdivé?
 A) Triedený odpad sa dá opätovne využiť a recyklovať.
@@ -96,11 +100,11 @@ D) Existuje aj odpad, ktorého časti patria do rôznych kontajnerov.
 
 Odpoveď na úlohu 02: 
 ```
-### Out: 2
+###### Out: 2
 ```
 //TODO
 ```
-## In: 3
+##### In: 3
 ```
 03. Do kontajnera určeného na plasty na základe ukážky vyhadzujeme
 A) kúsky polystyrénu.
@@ -110,11 +114,11 @@ D) nedojedený jogurt.
 
 Odpoveď na úlohu 03: 
 ```
-### Out: 3
+###### Out: 3
 ```
 //TODO
 ```
-## In: 4
+##### In: 4
 ```
 04. V ktorej možnosti je správne použité vykanie?
 A) Pani Vierka, bola by ste taká láskavá a pomohla mi zložiť škatuľu?
@@ -124,11 +128,11 @@ D) Povedali by ste mi, kde sa nachádzajú najbližšie zberné kontajnery?
 
 Odpoveď na úlohu 04: 
 ```
-### Out: 4
+###### Out: 4
 ```
 //TODO
 ```
-## In: 5
+##### In: 5
 ```
 05. V ktorej možnosti patria obe podčiarknuté slová k neohybným slovným druhom?
 A) Projekt prispieva k _tomu_, _aby_ sme sa zaujímali o životné prostredie.
@@ -138,32 +142,32 @@ D) _Jeho_ súčasťou je projekt Zbieraj a trieď.
 
 Odpoveď na úlohu 05: 
 ```
-### Out: 5
+###### Out: 5
 ```
 //TODO
 ```
-## In: 6
+##### In: 6
 ```
 06. Vypíš z orámovanej časti ukážky pomnožné podstatné meno.
 
 Odpoveď na úlohu 06: 
 ```
-### Out: 6
+###### Out: 6
 ```
 //TODO
 ```
-## In: 7
+##### In: 7
 ```
 07. Vypíš z nasledujúcej časti ukážky slovo cudzieho pôvodu, pri výslovnosti ktorého sa nerešpektuje pravidlo o mäkčení.
 ZELENÝ ODPADKOVÝ KÔŠ: nevratné sklenené fľaše, sklenené poháre, vázy, úlomky tabuľového skla, poháre od kompótov, sklenené obaly od kozmetiky, kávy a pochutín bez plastového vrchnáka.
 
 Odpoveď na úlohu 07: 
 ```
-### Out: 7
+###### Out: 7
 ```
 //TODO
 ```
-## In: 8
+##### In: 8
 ```
 
 Ukážka 2
@@ -195,11 +199,11 @@ D) Nápad, akým spôsobom dobyť mesto, skrsol v hlave Naju.
 
 Odpoveď na úlohu 08: 
 ```
-### Out: 8
+###### Out: 8
 ```
 //TODO
 ```
-## In: 9
+##### In: 9
 ```
 09. Ktoré tvrdenie o Ištarovi je na základe ukážky nepravdivé?
 A) Oslovili ho čarodejník.
@@ -209,11 +213,11 @@ D) Dostal za svoje rady zlato.
 
 Odpoveď na úlohu 09: 
 ```
-### Out: 9
+###### Out: 9
 ```
 //TODO
 ```
-## In: 10
+##### In: 10
 ```
 10. V závere ukážky sa v očiach dvoch postáv zračilo rodiace sa pochopenie toho, ako
 A) sa dostať do mesta prostredníctvom vody, ktorá doň vteká.
@@ -223,11 +227,11 @@ D) zmeniť svoje plány, lebo múry neprelomia ani za tri roky.
 
 Odpoveď na úlohu 10: 
 ```
-### Out: 10
+###### Out: 10
 ```
 //TODO
 ```
-## In: 11
+##### In: 11
 ```
 11. Ktoré tvrdenie o slovách z nasledujúcej vety je pravdivé?
 Každú štvrť zásobujú kanály, je tam vody na sto rokov pre Sargonových šesť terás.
@@ -238,11 +242,11 @@ D) Nachádza sa v nej vlastné podstatné meno.
 
 Odpoveď na úlohu 11: 
 ```
-### Out: 11
+###### Out: 11
 ```
 //TODO
 ```
-## In: 12
+##### In: 12
 ```
 12. V ktorej možnosti sa nachádzajú zámená v rovnakom páde?
 A) tými múrmi, k tejto mape
@@ -252,21 +256,21 @@ D) prelomiť tie múry, ju namaľoval
 
 Odpoveď na úlohu 12: 
 ```
-### Out: 12
+###### Out: 12
 ```
 //TODO
 ```
-## In: 13
+##### In: 13
 ```
 13. Vypíš meno postavy, ktorej je v ukážke preukazovaná pocta ako faraónovi.
 
 Odpoveď na úlohu 13: 
 ```
-### Out: 13
+###### Out: 13
 ```
 //TODO
 ```
-## In: 14
+##### In: 14
 ```
 14. Vypíš z nasledujúcej časti ukážky slovo s opačným významom k slovu urečnene.
 „Ak si Sargon objednal mapu, prečo si mu ju nedal?“
@@ -275,11 +279,11 @@ Odpoveď na úlohu 13:
 
 Odpoveď na úlohu 14: 
 ```
-### Out: 14
+###### Out: 14
 ```
 //TODO
 ```
-## In: 15
+##### In: 15
 ```
 
 Ukážka 3
@@ -312,11 +316,11 @@ D) vedome obetovaním vlastného času a energie pomáhajú druhým.
 
 Odpoveď na úlohu 15: 
 ```
-### Out: 15
+###### Out: 15
 ```
 //TODO
 ```
-## In: 16
+##### In: 16
 ```
 16. V ktorej možnosti je nepravdivé tvrdenie?
 Podľa ukážky sa prosociálny človek
@@ -327,11 +331,11 @@ D) rozhodne, ohľaduplne a primerane postaví za svoje postoje a názory.
 
 Odpoveď na úlohu 16: 
 ```
-### Out: 16
+###### Out: 16
 ```
 //TODO
 ```
-## In: 17
+##### In: 17
 ```
 17. V ktorej možnosti je uvedený hlavný dôvod, prečo sa mladí ľudia zapájajú do dobrovoľníctva menej?
 A) strach
@@ -341,11 +345,11 @@ D) krátko trvajúce dobrovoľnícke aktivity
 
 Odpoveď na úlohu 17: 
 ```
-### Out: 17
+###### Out: 17
 ```
 //TODO
 ```
-## In: 18
+##### In: 18
 ```
 18. Ktorým slovom by sme na základe poslednej vety z ukážky mohli nahradiť slovo asociácia v názve grafu?
 A) pomoc
@@ -355,11 +359,11 @@ D) zapájanie sa
 
 Odpoveď na úlohu 18: 
 ```
-### Out: 18
+###### Out: 18
 ```
 //TODO
 ```
-## In: 19
+##### In: 19
 ```
 19. V ktorom prídavnom mene sa uplatňuje pravidlo o rytmickom krátení?
 A) vlastnému ideálu
@@ -369,22 +373,22 @@ D) hodnotovej orientácie
 
 Odpoveď na úlohu 19: 
 ```
-### Out: 19
+###### Out: 19
 ```
 //TODO
 ```
-## In: 20
+##### In: 20
 ```
 20. Vypíš z nasledujúcej vety prisudzovací sklad.
 Vzťah hodnotovej orientácie a dobrovoľníctva je silný.
 
 Odpoveď na úlohu 20: 
 ```
-### Out: 20
+###### Out: 20
 ```
 //TODO
 ```
-## In: 21
+##### In: 21
 ```
 (obrázok 3 deti stojacich asi na chodbe školy a baviacich sa)
 LUKÁŠ: Určite by som sa zapojil aj ja, keby som mal viac informácií o dobrovoľníctve.
@@ -395,11 +399,11 @@ FILIP: Napríklad ja už štvrtý rok vypomáham v útulku pre zvieratá. Zdá s
 
 Odpoveď na úlohu 21: 
 ```
-### Out: 21
+###### Out: 21
 ```
 //TODO
 ```
-## In: 22
+##### In: 22
 ```
 
 Úlohy 22 - 30
@@ -420,11 +424,11 @@ D) pranostika
 
 Odpoveď na úlohu 22: 
 ```
-### Out: 22
+###### Out: 22
 ```
 //TODO
 ```
-## In: 23
+##### In: 23
 ```
 23. V ktorej možnosti sú správne doplnené chýbajúce písmená z nasledujúcej vety?
 Zápas s  _echmi je lákadlom aj pre  _lovenských fanúšikov a  _opradčania nemajú problém zaplniť štadión aj v letných mesiacoch, keď sa tu koná najstarší _urópsky turnaj, tzv. _atranský pohár.
@@ -436,22 +440,22 @@ D) Č, S, P, E, T
 
 Odpoveď na úlohu 23: 
 ```
-### Out: 23
+###### Out: 23
 ```
 //TODO
 ```
-## In: 24
+##### In: 24
 ```
 24. Vlastné podstatné meno z nasledujúcej vety napíš pravopisne správne v tvare lokálu jednotného čísla.
 Spoznaj našu Zem, modrú krásku, a jej vzácnosti.
 
 Odpoveď na úlohu 24: 
 ```
-### Out: 24
+###### Out: 24
 ```
 //TODO
 ```
-## In: 25
+##### In: 25
 ```
 25. Vypíš z ukážky dvojslovné spojenie vyjadrujúce stálosť človeka vo svojich zásadách.
 
@@ -468,11 +472,11 @@ zanechali stopy vo mne.:/
 
 Odpoveď na úlohu 25: 
 ```
-### Out: 25
+###### Out: 25
 ```
 //TODO
 ```
-## In: 26
+##### In: 26
 ```
 26. V ktorej možnosti je veta napísaná správne?
 A) Napadla ma originálna myšlienka.
@@ -482,11 +486,11 @@ D) Zabudla som si dáždnik, vrátim sa po neho.
 
 Odpoveď na úlohu 26: 
 ```
-### Out: 26
+###### Out: 26
 ```
 //TODO
 ```
-## In: 27
+##### In: 27
 ```
 27. V ktorej možnosti je správne uvedená pointa nasledujúceho citátu?
 „Myslel som si, že keď o tom nikto nebude hovoriť, nebude to pravda.“ Joseph Heller
@@ -498,33 +502,33 @@ D) Udržať tajomstvo a nehovoriť o ňom je náročná úloha.
 
 Odpoveď na úlohu 27: 
 ```
-### Out: 27
+###### Out: 27
 ```
 //TODO
 ```
-## In: 28
+##### In: 28
 ```
 28. Napíš pravopisne správne vybrané slovo, ktoré je antonymom prídavného mena v nasledujúcej vete.
 V tej chvíli som bol už taký hladný, až sa mi zatmilo pred očami.
 
 Odpoveď na úlohu 28: 
 ```
-### Out: 28
+###### Out: 28
 ```
 //TODO
 ```
-## In: 29
+##### In: 29
 ```
 29. Vypíš slovom pravopisne správne číslovku z nasledujúcej vety.
 Dobrovoľníci sú si vedomí toho, že sa musia ako 1. začať správať prosociálne.
 
 Odpoveď na úlohu 29: 
 ```
-### Out: 29
+###### Out: 29
 ```
 //TODO
 ```
-## In: 30
+##### In: 30
 ```
 30. V ktorej možnosti je správne uvedený literárny žáner nasledujúcej ukážky?
 Pocestní a platan
@@ -538,12 +542,12 @@ D) bájka
 
 Odpoveď na úlohu 30: 
 ```
-### Out: 30
+###### Out: 30
 ```
 //TODO
 ```
 
-# Vyhodnotenie
+#### Vyhodnotenie
 
 | CU | Odpoved | Spravna odpoved | Body |
 | -- | --- | --- | --- |
