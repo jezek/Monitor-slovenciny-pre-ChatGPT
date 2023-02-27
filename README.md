@@ -8,6 +8,11 @@
 - Kazda otazka (s relevantnou) ukazkou vo vlastnom sedeni.
   1. [Uprava zadani a markdown hlavicky](./Co-uloha-to-jedno-sedenie/01.uprava-zadani_markdown-hlavicky/README.md) - 58,666% [*](./Co-uloha-to-jedno-sedenie/01.uprava-zadani_markdown-hlavicky/README.md#poznamka)
 
+Porovnie s [vysledkami na ziakoch](https://www.minedu.sk/vysledky-monitoringu-nucem-2021-distancne-vzdelavanie-z-pohladu-deviatakov/).
+> Žiaci dosiahli v teste zo slovenského jazyka a literatúry priemernú úspešnosť 61,6 %. Žiaci osemročných gymnázií boli významne úspešnejší (74,1 %) v porovnaní so žiakmi základných škôl (60,5 %). …
+>
+> Žiaci zo sociálne znevýhodneného prostredia (2,0 % testovaných) dosiahli v slovenskom jazyku a literatúre priemernú úspešnosť 36,3 %. …
+
 ## Postup
 
 1. Stiahnutie pdf [testu](./T9-2022_SJL.pdf) a [odpovedi](./kluc_T9-2022_SJL.pdf) z [https://monitor9.zones.sk/testy-testovanie9/](https://monitor9.zones.sk/testy-testovanie9/)
