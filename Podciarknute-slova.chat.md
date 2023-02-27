@@ -1,5 +1,4 @@
 # Podciarknute slova
-- Url: chat.openai.com
 - Date: 2023-01-03
 ## In: 1
 ```

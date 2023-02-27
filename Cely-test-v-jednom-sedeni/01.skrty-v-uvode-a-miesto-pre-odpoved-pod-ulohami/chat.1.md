@@ -9,7 +9,6 @@
   - doplnene miesta pre odpovede pod ulohami
 
 ##### Udaje o rozhovore
-- Url: chat.openai.com
 - Version: ChatGPT Dec 15 Version
 - Date: 2023-01-07
 

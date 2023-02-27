@@ -22,6 +22,6 @@ Porovnie s [vysledkami na ziakoch](https://www.minedu.sk/vysledky-monitoringu-nu
 
 #### Postup
 1. Vytvorena [sablona](./chat.template.md) s vstupmi a miestami pre vlozenie vystupov.
-2. Pre kazdu ulohu vytvorene nove sedenie s ChatGPT na chat.openai.com a zapisanie udajov do hlavicky kopie sablony (Datum, Verzia).
-3. Vlozenie vstupu zo sablony a zapisovanie odpovedi do kopie sablony. Viacere odpovede dosiahneme regeneraciou odpovede, alebo regeneraciou otazky, alebo celeho sedenia.
+2. Vytvorene nove sedenie s ChatGPT na chat.openai.com a zapisanie udajov do hlavicky kopie sablony (Datum, Verzia).
+3. Vkladanie vstupov zo sablony a zapisovanie odpovedi do kopie sablony.
 4. Vyhodnotenie do predpripravenej tabulky v kopii sablony.

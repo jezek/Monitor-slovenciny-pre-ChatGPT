@@ -9,7 +9,6 @@
   - doplnene miesta pre odpovede pod ulohami
 
 ##### Udaje o rozhovore
-- Url: chat.openai.com
 - Datum: //TODO
 - Verzia: //TODO
 
