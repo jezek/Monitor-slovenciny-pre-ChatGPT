@@ -558,38 +558,38 @@ A) rozprávka
 
 #### Vyhodnotenie
 
-| CU | Odpoved | Spravna odpoved | Body |
+| CU | Spravna odpoved | Odpoved | Body |
 | -- | --- | --- | --- |
-| 01 | ? | B | 0 |
-| 02 | B | C | 0 |
+| 01 | B | ? | 0 |
+| 02 | C | B | 0 |
 | 03 | A | A | 1 |
-| 04 | B | D | 0 |
-| 05 | A | B | 0 |
-| 06 | Fľaše | noviny/Noviny/novín/Novín  | 0 |
-| 07 | tabuľového | kozmetiky/kozmetika/Kozmetiky/Kozmetika  | 0 |
+| 04 | D | B | 0 |
+| 05 | B | A | 0 |
+| 06 | noviny/Noviny/novín/Novín  | Fľaše | 0 |
+| 07 | kozmetiky/kozmetika/Kozmetiky/Kozmetika  | tabuľového | 0 |
 | 08 | B | B | 1 |
 | 09 | D | D | 1 |
 | 10 | A | A | 1 |
-| 11 | B | C | 0 |
+| 11 | C | B | 0 |
 | 12 | D | D | 1 |
-| 13 | Sargon | Naja  | 0 |
-| 14 | nedokonalý | mlčky/Mlčky  | 0 |
-| 15 | ? | D | 0 |
+| 13 | Naja  | Sargon | 0 |
+| 14 | mlčky/Mlčky  | nedokonalý | 0 |
+| 15 | D | ? | 0 |
 | 16 | A | A | 1 |
 | 17 | C | C | 1 |
 | 18 | B | B | 1 |
-| 19 | ? | C | 0 |
-| 20 | Vzťah hodnotovej orientácie a dobrovoľníctva. | vzťah je silný/Vzťah je silný/je silný vzťah  | 0 |
-| 21 | Marek. | Marek/MAREK  | 1 |
+| 19 | C | ? | 0 |
+| 20 | vzťah je silný/Vzťah je silný/je silný vzťah  | Vzťah hodnotovej orientácie a dobrovoľníctva. | 0 |
+| 21 | Marek/MAREK  | Marek. | 1 |
 | 22 | A | A | 1 |
-| 23 | A | B | 0 |
-| 24 | Zem (v lokáli jednotného čísla) | (o, v, na, pri...) Zemi  | 0 |
-| 25 | neoblomné hodnoty | hodnoty neoblomné/neoblomné hodnoty/Hodnoty neoblomné | 1 |
-| 26 | A | C | 0 |
+| 23 | B | A | 0 |
+| 24 | (o, v, na, pri...) Zemi  | Zem (v lokáli jednotného čísla) | 0 |
+| 25 | hodnoty neoblomné/neoblomné hodnoty/Hodnoty neoblomné | neoblomné hodnoty | 1 |
+| 26 | C | A | 0 |
 | 27 | A | A | 1 |
-| 28 | sytý | sýty/nasýtený/Sýty/Nasýtený*  | 0 |
-| 29 | jeden. | prví/Prví | 0 |
-| 30 | A | D | 0 |
-|    |  |   | 12 = 10 + 2 |
+| 28 | sýty/nasýtený/Sýty/Nasýtený*  | sytý | 0 |
+| 29 | prví/Prví | jeden. | 0 |
+| 30 | D | A | 0 |
+|    |   |  | 12 = 10 + 2 |
 
 *Všetky pravopisne a gramaticky správne napísané odvodené vybraná slová od prídavného mena sýty budú v antonomickom význame prídavného mena hladný vyhodnotené ako správne odpovede.

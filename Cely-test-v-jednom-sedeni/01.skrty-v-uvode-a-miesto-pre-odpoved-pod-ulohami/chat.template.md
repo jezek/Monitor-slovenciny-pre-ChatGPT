@@ -549,38 +549,38 @@ Odpoveď na úlohu 30:
 
 #### Vyhodnotenie
 
-| CU | Odpoved | Spravna odpoved | Body |
+| CU | Spravna odpoved | Odpoved | Body |
 | -- | --- | --- | --- |
-| 01 |  | B | 0 |
-| 02 |  | C | 0 |
-| 03 |  | A | 0 |
-| 04 |  | D | 0 |
-| 05 |  | B | 0 |
-| 06 |  | noviny/Noviny/novín/Novín  | 0 |
-| 07 |  | kozmetiky/kozmetika/Kozmetiky/Kozmetika  | 0 |
-| 08 |  | B | 0 |
-| 09 |  | D | 0 |
-| 10 |  | A | 0 |
-| 11 |  | C | 0 |
-| 12 |  | D | 0 |
-| 13 |  | Naja  | 0 |
-| 14 |  | mlčky/Mlčky  | 0 |
-| 15 |  | D | 0 |
-| 16 |  | A | 0 |
-| 17 |  | C | 0 |
-| 18 |  | B | 0 |
-| 19 |  | C | 0 |
-| 20 |  | vzťah je silný/Vzťah je silný/je silný vzťah  | 0 |
-| 21 |  | Marek/MAREK  | 0 |
-| 22 |  | A | 0 |
-| 23 |  | B | 0 |
-| 24 |  | (o, v, na, pri...) Zemi  | 0 |
-| 25 |  | hodnoty neoblomné/neoblomné hodnoty/Hodnoty neoblomné | 0 |
-| 26 |  | C | 0 |
-| 27 |  | A | 0 |
-| 28 |  | sýty/nasýtený/Sýty/Nasýtený*  | 0 |
-| 29 |  | prví/Prví | 0 |
-| 30 |  | D | 0 |
-|    |  |   | 0 |
+| 01 | B |  | 0 |
+| 02 | C |  | 0 |
+| 03 | A |  | 0 |
+| 04 | D |  | 0 |
+| 05 | B |  | 0 |
+| 06 | noviny/Noviny/novín/Novín |  | 0 |
+| 07 | kozmetiky/kozmetika/Kozmetiky/Kozmetika |  | 0 |
+| 08 | B |  | 0 |
+| 09 | D |  | 0 |
+| 10 | A |  | 0 |
+| 11 | C |  | 0 |
+| 12 | D |  | 0 |
+| 13 | Naja |  | 0 |
+| 14 | mlčky/Mlčky |  | 0 |
+| 15 | D |  | 0 |
+| 16 | A |  | 0 |
+| 17 | C |  | 0 |
+| 18 | B |  | 0 |
+| 19 | C |  | 0 |
+| 20 | vzťah je silný/Vzťah je silný/je silný vzťah |  | 0 |
+| 21 | Marek/MAREK |  | 0 |
+| 22 | A |  | 0 |
+| 23 | B |  | 0 |
+| 24 | (o, v, na, pri...) Zemi |  | 0 |
+| 25 | hodnoty neoblomné/neoblomné hodnoty/Hodnoty neoblomné |  | 0 |
+| 26 | C |  | 0 |
+| 27 | A |  | 0 |
+| 28 | sýty/nasýtený/Sýty/Nasýtený* |  | 0 |
+| 29 | prví/Prví |  | 0 |
+| 30 | D |  | 0 |
+|    |   |  | 0 |
 
 *Všetky pravopisne a gramaticky správne napísané odvodené vybraná slová od prídavného mena sýty budú v antonomickom význame prídavného mena hladný vyhodnotené ako správne odpovede.
