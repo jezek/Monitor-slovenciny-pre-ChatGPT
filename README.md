@@ -1,5 +1,9 @@
 # Monitor zo slovenského jazyka a literatúry pre ChatGPT
 
+Bol som zvedavy na akej urovni vie ChatGPT komunikovat po slovensky. Rozhodol som sa ho preto otestovat nejakym testom v slovencine. Na tuto ulohu som si vybral celoslovensky monitor test zo slovenskeho jazyka a literatury pre 9. rocnik zakladnych skol a 4. rocnik 8-rocnych gymnazii.
+
+Test som zadal ChatGPT dvoma sposobmi. Raz cely test v jednom sedeni, s minimalnymi upravami a druhy krat som sa ho na kazdu otazku pytal zvlast a otazky boli upravene tak, aby sa im dalo lahsie rozumiet.
+
 ## Vysledky
 
 - Cely test v ramci jednoho sedenia
