@@ -7,7 +7,9 @@ Test som zadal ChatGPT dvoma sposobmi. Raz cely test v jednom sedeni, s minimaln
 ## Vysledky
 
 - Cely test v ramci jednoho sedenia
-  1. [Skrty v uvode a miesto pre odpoved pod ulohami](./Cely-test-v-jednom-sedeni/01.skrty-v-uvode-a-miesto-pre-odpoved-pod-ulohami/README.md) - 40%
+  1. [Skrty v uvode a miesto pre odpoved pod ulohami](./Cely-test-v-jednom-sedeni/01.skrty-v-uvode-a-miesto-pre-odpoved-pod-ulohami/README.md)
+    - GPT-3.5 - 40%
+    - GPT-4 - 70%
 
 - Kazda otazka (s relevantnou) ukazkou vo vlastnom sedeni.
   1. [Uprava zadani a markdown hlavicky](./Co-uloha-to-jedno-sedenie/01.uprava-zadani_markdown-hlavicky/README.md) - 58,666% [*](./Co-uloha-to-jedno-sedenie/01.uprava-zadani_markdown-hlavicky/README.md#poznamka)
